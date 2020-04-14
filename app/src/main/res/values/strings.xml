@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">India Covid19 Tracker</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="stats">Stats</string>
+    <string name="news">News</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="covid19_test_labs">Covid19 Test Labs</string>
+    <string name="food_shelters">Food Shelters</string>
+    <string name="night_shelters">Night Shelters</string>
+    <string name="deaths">Deaths</string>
+</resources>
